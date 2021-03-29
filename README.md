@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![screen](https://github.com/Henriquek47/Aurea/blob/master/18cccb84-bd71-4fd3-ae97-8ffd1c839f61.jfif)
+![screen](https://github.com/Henriquek47/Aurea/blob/master/9f64df5d-1d0f-4315-a6b1-b6b35cecff77.jfif)
+![screen](https://github.com/Henriquek47/Aurea/blob/master/aaada558-17cc-48aa-a961-ede56a4ecda0.jfif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
